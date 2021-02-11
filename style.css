@@ -1,0 +1,17 @@
+body{font-family: 'Poppins', sans-serif;
+
+}
+
+#navbar{display:flex;}
+
+*{margin: 0;
+padding: 0;}
+
+#welcom-section{height: 100vh;
+background-color:black ;
+color: #ffff;
+flex-direction:column;
+justify-content: center;
+height: 100vh;
+background-color: blue;
+color: #ffff;}
