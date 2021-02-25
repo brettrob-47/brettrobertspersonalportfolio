@@ -68,7 +68,6 @@
         justify-content: space-around;
     }
     #third{ max-height: 800px;
-        background-color:aqua;
         width:100%;
         display:flex;
         flex-direction:horizontal;
@@ -122,9 +121,11 @@
         justify-content:space-evenly;
         background-color:#f7803b;
     }
-    #ig{width:50px;
+    #ig{width:50px;}
+
+    h2{ font-family:"calibri";}
         
-      
+    
     
         
         
